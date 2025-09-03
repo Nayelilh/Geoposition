@@ -1,0 +1,57 @@
+com.example.nayeliconstantina.app-ui-tooling-preview-release-0 C:\Users\nayel\.gradle\caches\8.13\transforms\03e25786c25b946c11897dee7e596b2b\transformed\ui-tooling-preview-release\res
+com.example.nayeliconstantina.app-core-runtime-2.2.0-1 C:\Users\nayel\.gradle\caches\8.13\transforms\10c2fdf6d9f565890bed39048e834aaf\transformed\core-runtime-2.2.0\res
+com.example.nayeliconstantina.app-lifecycle-runtime-release-2 C:\Users\nayel\.gradle\caches\8.13\transforms\11521babd937ead1f6e6bc8ced683418\transformed\lifecycle-runtime-release\res
+com.example.nayeliconstantina.app-play-services-basement-18.1.0-3 C:\Users\nayel\.gradle\caches\8.13\transforms\15b2c1982bc288c7f975c867e6a83e50\transformed\play-services-basement-18.1.0\res
+com.example.nayeliconstantina.app-lifecycle-runtime-ktx-release-4 C:\Users\nayel\.gradle\caches\8.13\transforms\1d14f8cfa4cfb4476a32327ac6fc5a4e\transformed\lifecycle-runtime-ktx-release\res
+com.example.nayeliconstantina.app-ui-util-release-5 C:\Users\nayel\.gradle\caches\8.13\transforms\21572558654519cc4d9f3c1a8702c0a3\transformed\ui-util-release\res
+com.example.nayeliconstantina.app-customview-poolingcontainer-1.0.0-6 C:\Users\nayel\.gradle\caches\8.13\transforms\2165b983087d9129cd0033deb133aeb9\transformed\customview-poolingcontainer-1.0.0\res
+com.example.nayeliconstantina.app-play-services-base-18.1.0-7 C:\Users\nayel\.gradle\caches\8.13\transforms\24289cf4f3393da0d00b721b2f0a1903\transformed\play-services-base-18.1.0\res
+com.example.nayeliconstantina.app-ui-test-manifest-1.7.1-8 C:\Users\nayel\.gradle\caches\8.13\transforms\25075dc86b58c6d7c5072d24b62275e8\transformed\ui-test-manifest-1.7.1\res
+com.example.nayeliconstantina.app-ui-geometry-release-9 C:\Users\nayel\.gradle\caches\8.13\transforms\30d362b7c8f9f08839069669aa1e2972\transformed\ui-geometry-release\res
+com.example.nayeliconstantina.app-animation-core-release-10 C:\Users\nayel\.gradle\caches\8.13\transforms\3399db57370dcac60d170a4445a9316d\transformed\animation-core-release\res
+com.example.nayeliconstantina.app-core-1.13.1-11 C:\Users\nayel\.gradle\caches\8.13\transforms\38ea0471cd817173b4203329613a319d\transformed\core-1.13.1\res
+com.example.nayeliconstantina.app-core-ktx-1.13.1-12 C:\Users\nayel\.gradle\caches\8.13\transforms\396dea2693102db46df23fdf42494efa\transformed\core-ktx-1.13.1\res
+com.example.nayeliconstantina.app-activity-ktx-1.9.2-13 C:\Users\nayel\.gradle\caches\8.13\transforms\43ab8fb1be1390d7028feefd22311154\transformed\activity-ktx-1.9.2\res
+com.example.nayeliconstantina.app-lifecycle-runtime-compose-release-14 C:\Users\nayel\.gradle\caches\8.13\transforms\4aed5566519b0f81f4a189775ecc2b59\transformed\lifecycle-runtime-compose-release\res
+com.example.nayeliconstantina.app-material-icons-core-release-15 C:\Users\nayel\.gradle\caches\8.13\transforms\4e14b7f5acd1b01713e0256990839825\transformed\material-icons-core-release\res
+com.example.nayeliconstantina.app-fragment-1.3.2-16 C:\Users\nayel\.gradle\caches\8.13\transforms\5037f985c607a6dad7a95ad56f6393cc\transformed\fragment-1.3.2\res
+com.example.nayeliconstantina.app-savedstate-1.2.1-17 C:\Users\nayel\.gradle\caches\8.13\transforms\541c4938b27778b7c31e54ff56cc7acc\transformed\savedstate-1.2.1\res
+com.example.nayeliconstantina.app-material-ripple-release-18 C:\Users\nayel\.gradle\caches\8.13\transforms\73029683ae2a0314c92304f5b4103cc8\transformed\material-ripple-release\res
+com.example.nayeliconstantina.app-lifecycle-livedata-core-ktx-2.8.3-19 C:\Users\nayel\.gradle\caches\8.13\transforms\7387bc7826dbe5c290c7b7c77b5741e0\transformed\lifecycle-livedata-core-ktx-2.8.3\res
+com.example.nayeliconstantina.app-maps-compose-2.11.4-20 C:\Users\nayel\.gradle\caches\8.13\transforms\798bb168db184b8c031962985f7b587f\transformed\maps-compose-2.11.4\res
+com.example.nayeliconstantina.app-ui-viewbinding-1.7.1-21 C:\Users\nayel\.gradle\caches\8.13\transforms\7ac58f9b3f29d07a48e1e3376ff0e0c9\transformed\ui-viewbinding-1.7.1\res
+com.example.nayeliconstantina.app-savedstate-ktx-1.2.1-22 C:\Users\nayel\.gradle\caches\8.13\transforms\7e0a2fec9cdf904d492cffe4e0ba5405\transformed\savedstate-ktx-1.2.1\res
+com.example.nayeliconstantina.app-lifecycle-viewmodel-ktx-2.8.3-23 C:\Users\nayel\.gradle\caches\8.13\transforms\7e2bee68cc41cebd450f9d464130954f\transformed\lifecycle-viewmodel-ktx-2.8.3\res
+com.example.nayeliconstantina.app-graphics-path-1.0.1-24 C:\Users\nayel\.gradle\caches\8.13\transforms\83a9f202729ca698293e6d420a5350d3\transformed\graphics-path-1.0.1\res
+com.example.nayeliconstantina.app-activity-compose-1.9.2-25 C:\Users\nayel\.gradle\caches\8.13\transforms\871f3477774f6e921ff8733396f49260\transformed\activity-compose-1.9.2\res
+com.example.nayeliconstantina.app-lifecycle-livedata-core-2.8.3-26 C:\Users\nayel\.gradle\caches\8.13\transforms\882d27877add86e2b335fbe428c03e77\transformed\lifecycle-livedata-core-2.8.3\res
+com.example.nayeliconstantina.app-lifecycle-livedata-2.8.3-27 C:\Users\nayel\.gradle\caches\8.13\transforms\8840d25ebbd8d3f21fd4e2cb006b52cf\transformed\lifecycle-livedata-2.8.3\res
+com.example.nayeliconstantina.app-startup-runtime-1.1.1-28 C:\Users\nayel\.gradle\caches\8.13\transforms\8b2a4632e43128804c18a10dbdfaf1e0\transformed\startup-runtime-1.1.1\res
+com.example.nayeliconstantina.app-lifecycle-process-2.8.3-29 C:\Users\nayel\.gradle\caches\8.13\transforms\8be577bffe5c1ff6215a870b38912ab4\transformed\lifecycle-process-2.8.3\res
+com.example.nayeliconstantina.app-animation-release-30 C:\Users\nayel\.gradle\caches\8.13\transforms\947303ab837ecdd64f7ea323d6ae0555\transformed\animation-release\res
+com.example.nayeliconstantina.app-annotation-experimental-1.4.1-31 C:\Users\nayel\.gradle\caches\8.13\transforms\98c67f3ad6a163690d3bdad865133620\transformed\annotation-experimental-1.4.1\res
+com.example.nayeliconstantina.app-lifecycle-viewmodel-savedstate-2.8.3-32 C:\Users\nayel\.gradle\caches\8.13\transforms\a2192c77ee41596542d323b8d5f33249\transformed\lifecycle-viewmodel-savedstate-2.8.3\res
+com.example.nayeliconstantina.app-ui-text-release-33 C:\Users\nayel\.gradle\caches\8.13\transforms\a21c0a0fd3d40340f95cf72a97f24eed\transformed\ui-text-release\res
+com.example.nayeliconstantina.app-foundation-release-34 C:\Users\nayel\.gradle\caches\8.13\transforms\a4ad239ec4333790f5de285635fedfc8\transformed\foundation-release\res
+com.example.nayeliconstantina.app-lifecycle-viewmodel-release-35 C:\Users\nayel\.gradle\caches\8.13\transforms\a793a9f776500db9a512c994363d2c86\transformed\lifecycle-viewmodel-release\res
+com.example.nayeliconstantina.app-ui-tooling-release-36 C:\Users\nayel\.gradle\caches\8.13\transforms\a92928aa561ddd574290a7c09af59be0\transformed\ui-tooling-release\res
+com.example.nayeliconstantina.app-ui-release-37 C:\Users\nayel\.gradle\caches\8.13\transforms\ab51a2c669f37b18e164f03871ded3fd\transformed\ui-release\res
+com.example.nayeliconstantina.app-material3-release-38 C:\Users\nayel\.gradle\caches\8.13\transforms\ac5730e1294228dab72f8d7b7acde09d\transformed\material3-release\res
+com.example.nayeliconstantina.app-foundation-layout-release-39 C:\Users\nayel\.gradle\caches\8.13\transforms\b0529948cfed33506af602f10ec2edca\transformed\foundation-layout-release\res
+com.example.nayeliconstantina.app-runtime-release-40 C:\Users\nayel\.gradle\caches\8.13\transforms\c27401a1867012602b13af4e3f6a80a3\transformed\runtime-release\res
+com.example.nayeliconstantina.app-emoji2-1.3.0-41 C:\Users\nayel\.gradle\caches\8.13\transforms\ceb7f68226892d000fb4b5c5902552f5\transformed\emoji2-1.3.0\res
+com.example.nayeliconstantina.app-ui-graphics-release-42 C:\Users\nayel\.gradle\caches\8.13\transforms\d3bde56da85f0a8c189b17eba03ccb96\transformed\ui-graphics-release\res
+com.example.nayeliconstantina.app-ui-unit-release-43 C:\Users\nayel\.gradle\caches\8.13\transforms\d48488b23748ac3cf51d0f154d713e0c\transformed\ui-unit-release\res
+com.example.nayeliconstantina.app-ui-tooling-data-release-44 C:\Users\nayel\.gradle\caches\8.13\transforms\db8941dd831f241ce6dbc227955d1d7a\transformed\ui-tooling-data-release\res
+com.example.nayeliconstantina.app-material-release-45 C:\Users\nayel\.gradle\caches\8.13\transforms\e3639987462e191fcf7ba309d1f8792c\transformed\material-release\res
+com.example.nayeliconstantina.app-play-services-maps-18.1.0-46 C:\Users\nayel\.gradle\caches\8.13\transforms\ea9467010541a6c6ec729760488f27f5\transformed\play-services-maps-18.1.0\res
+com.example.nayeliconstantina.app-profileinstaller-1.3.1-47 C:\Users\nayel\.gradle\caches\8.13\transforms\ee0522b148fa5de8eb97850ab3faf94e\transformed\profileinstaller-1.3.1\res
+com.example.nayeliconstantina.app-activity-1.9.2-48 C:\Users\nayel\.gradle\caches\8.13\transforms\efa96bc60e8887e7ebb497f297f16175\transformed\activity-1.9.2\res
+com.example.nayeliconstantina.app-runtime-saveable-release-49 C:\Users\nayel\.gradle\caches\8.13\transforms\f7612a64c8e2a87f83fefbad48494fa4\transformed\runtime-saveable-release\res
+com.example.nayeliconstantina.app-pngs-50 E:\Ciclo 8\Embebidos\Geoposition\app\build\generated\res\pngs\debug
+com.example.nayeliconstantina.app-resValues-51 E:\Ciclo 8\Embebidos\Geoposition\app\build\generated\res\resValues\debug
+com.example.nayeliconstantina.app-packageDebugResources-52 E:\Ciclo 8\Embebidos\Geoposition\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.nayeliconstantina.app-packageDebugResources-53 E:\Ciclo 8\Embebidos\Geoposition\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.nayeliconstantina.app-debug-54 E:\Ciclo 8\Embebidos\Geoposition\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.nayeliconstantina.app-debug-55 E:\Ciclo 8\Embebidos\Geoposition\app\src\debug\res
+com.example.nayeliconstantina.app-main-56 E:\Ciclo 8\Embebidos\Geoposition\app\src\main\res
