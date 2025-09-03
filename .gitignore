@@ -1,0 +1,28 @@
+# Build
+/build/
+*/build/
+
+# Gradle
+.gradle/
+
+# Local configuration (API Keys, etc.)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Keystore (firmas)
+*.jks
+*.keystore
+
+# NDK / C++
+.cxx/
+.externalNativeBuild/
+
+# Capturas / logs
+captures/
+*.hprof
+
+# Otros
+*.log
